@@ -10,3 +10,10 @@ header.masthead {
     background-attachment: scroll;
     background-size: cover;
 }
+
+#myname {
+    border-bottom: 0.2rem solid rgb(194, 131, 131);
+    display: inline-block;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+

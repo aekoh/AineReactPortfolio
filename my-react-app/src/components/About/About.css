@@ -1,0 +1,19 @@
+.pStyle {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 0.2em;
+    color: black
+}
+
+h3 {
+    color: white;
+    letter-spacing: 0.2em;
+    text-align: center;
+    padding-bottom: 5px;
+    padding-top: 60px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#aboutMe  {
+    text-align: center;
+    padding-bottom: 5px;
+}

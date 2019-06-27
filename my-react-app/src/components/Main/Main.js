@@ -17,7 +17,7 @@ function Main() {
             class="row h-100 align-items-center justify-content-center text-right"
           >
             <div class="col-lg-10 align-self-end">
-              <h1 class="text-uppercase text-white font-weight-bold" id="name">
+              <h1 class="text-uppercase text-white font-weight-bold" id="myname">
                 Aine Ekoh
               </h1>
               <hr class="divider my-4" id="mastheadBreak" />
