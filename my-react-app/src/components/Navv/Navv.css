@@ -1,0 +1,9 @@
+body {
+    padding-top: 5px;
+    background-color: lightcoral;
+    color: white;
+}
+
+.bg-dark {
+    background-color: lightcoral !important;
+}
