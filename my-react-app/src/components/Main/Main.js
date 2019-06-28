@@ -11,13 +11,13 @@ import './Main.css'
 function Main() {
     return (
         
-        <header class="masthead">
-        <div class="container h-100">
+        <header className="masthead">
+        <div className="container h-100">
           <div
-            class="row h-100 align-items-center justify-content-center text-right"
+            className="row h-100 align-items-center justify-content-center text-right"
           >
-            <div class="col-lg-10 align-self-end">
-              <h1 class="text-uppercase text-white font-weight-bold" id="myname">
+            <div className="col-lg-10 align-self-end">
+              <h1 className="text-uppercase text-white font-weight-bold" id="myname">
                 Aine Ekoh
               </h1>
               <hr class="divider my-4" id="mastheadBreak" />
