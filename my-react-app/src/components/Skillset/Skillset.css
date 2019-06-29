@@ -1,0 +1,25 @@
+
+.row-skill {
+    margin-bottom: 10px;
+}
+
+.card-skill {
+    background: transparent;
+    text-align: center;
+    /* border: 1px solid rgba(255, 108, 17, 0.9); */
+    padding: 1px;
+    fill: yellow;
+    transition: 0.35s;
+}
+
+.card-skill:hover {
+    background:rgba(12, 6, 88, 0.9);
+    fill: palevioletred;
+    border-color: palevioletred;
+    box-shadow: 3px 3px 25px rgba(27, 10, 91, 0.5);
+}
+
+#skills {
+    padding-bottom: 100px;
+    padding-top: 100px;
+}
