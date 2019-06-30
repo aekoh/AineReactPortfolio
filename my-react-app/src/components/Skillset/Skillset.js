@@ -6,7 +6,7 @@ function Skillset () {
 
         <section class="page-section bg-dark text-white" id="skills">
         <div class="container text-center">
-          <h3 class="mb-4" id="skillSetColor">
+          <h3 class="mb-4 font-weight-bold" id="skillSetColor">
             Skillset
           </h3>
           <div class="container">

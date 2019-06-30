@@ -8,18 +8,25 @@
     text-align: center;
     /* border: 1px solid rgba(255, 108, 17, 0.9); */
     padding: 1px;
-    fill: rgb(41, 6, 94);
+    fill: rgb(17, 38, 140);
     transition: 0.35s;
 }
 
 .card-skill:hover {
-    background:rgba(94, 39, 82, 0.9);
+    background:rgba(3, 21, 57, 0.9);
     fill: palevioletred;
-    border-color: rgb(133, 91, 105);
+    border-color: rgb(191, 80, 117);
     box-shadow: 3px 3px 25px rgba(27, 10, 91, 0.5);
 }
 
 #skills {
-    padding-bottom: 100px;
+    padding-bottom: 160px;
     padding-top: 100px;
+}
+
+#skillSetColor {
+    padding-bottom: 20px;
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(46, 14, 100)
 }
