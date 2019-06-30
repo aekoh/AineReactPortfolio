@@ -15,7 +15,7 @@ function Portfolio() {
         <CardDeck id='cardDeck'>
   <Card id='reliveCard'>
     <Card.Body>
-     <Button id='reliveButton'> <Card.Title><a id='reliveColor' class="static-link" href="https://lamaprojects.github.io/project1/" >*reLive App</a></Card.Title></Button>
+     <Button id='reliveButton'> <Card.Title><a id='reliveColor' className="static-link" href="https://lamaprojects.github.io/project1/" >*reLive App</a></Card.Title></Button>
       <Card.Text>
       This app uses JavaScript to allow users to search an artist's
        setlist from setlist.fm API and generate a created playlist 
@@ -28,7 +28,7 @@ function Portfolio() {
   </Card>
   <Card id='nodeCard'>
     <Card.Body>
-     <Button id='nodeButton'> <Card.Title><a id='nodeColor' class="static-link" href="https://friend-finder-aine.herokuapp.com/" >*Node App</a></Card.Title></Button>
+     <Button id='nodeButton'> <Card.Title><a id='nodeColor' className="static-link" href="https://friend-finder-aine.herokuapp.com/" >*Node App</a></Card.Title></Button>
       <Card.Text>
       Uses Node Js and Express to build a Friend finder application.
       </Card.Text>
@@ -39,7 +39,7 @@ function Portfolio() {
   </Card>
   <Card id='reactCard'>
     <Card.Body>
-    <Button id='reactButton'> <Card.Title><a id='nodeColor' class="static-link" href="https://friend-finder-aine.herokuapp.com/" >*React App</a></Card.Title></Button>
+    <Button id='reactButton'> <Card.Title><a id='nodeColor' className="static-link" href="https://friend-finder-aine.herokuapp.com/" >*React App</a></Card.Title></Button>
       <Card.Text>
        Mapping Tool
       </Card.Text>

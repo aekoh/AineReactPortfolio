@@ -5,6 +5,7 @@ import Main from './components/Main/Main';
 import About from './components/About/About';
 import Portfolio from './components/Portfolio/Portfolio';
 import Skillset from './components/Skillset/Skillset';
+import Contact from './components/Contact/Contact';
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <About />
       <Portfolio />
       <Skillset />
+      <Contact />
     </div>
     
   );

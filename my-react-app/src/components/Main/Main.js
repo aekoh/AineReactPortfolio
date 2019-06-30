@@ -20,7 +20,7 @@ function Main() {
               <h1 className="text-uppercase text-white font-weight-bold" id="myname">
                 Aine Ekoh
               </h1>
-              <hr class="divider my-4" id="mastheadBreak" />
+              <hr className="divider my-4" id="mastheadBreak" />
             </div>
           </div>
         </div>
