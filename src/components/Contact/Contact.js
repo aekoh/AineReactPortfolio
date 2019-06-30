@@ -10,7 +10,7 @@ function Contact() {
         <div class="container">
           <div class="row justify-content-center">
             <div class="col-lg-8 text-center">
-              <h2 class="mt-0">Contact Me</h2>
+              <h2 class="mt-0 font-weight-bold">Contact Me</h2>
               <hr class="divider my-4" id='brColor' />
               <p class=" mb-5">Please use the information below</p>
             </div>

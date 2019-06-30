@@ -1,20 +1,20 @@
 .pStyle {
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: monospace;
     letter-spacing: 0.2em;
     
 }
 
 h2 {
     letter-spacing: 0.2em;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: monospace;
 }
 
 #aboutMe  {
     text-align: center;
     padding-bottom: 70px;
     padding-top: 100px;
-    font-size: 19px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 23px;
+    font-family: monospace;
     letter-spacing: 0.2em;
 }
 

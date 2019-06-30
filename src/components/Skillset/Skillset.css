@@ -7,8 +7,8 @@
     background: transparent;
     text-align: center;
     /* border: 1px solid rgba(255, 108, 17, 0.9); */
-    padding: 1px;
-    fill: rgb(17, 38, 140);
+    padding: 18px;
+    fill: #ffe8d5;
     transition: 0.35s;
 }
 
@@ -27,6 +27,6 @@
 #skillSetColor {
     padding-bottom: 20px;
     font-size: 40px;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    color: rgb(46, 14, 100)
+    font-family: monospace;
+    color:#ffe8d5;
 }

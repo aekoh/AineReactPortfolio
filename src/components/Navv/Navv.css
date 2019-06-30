@@ -2,6 +2,8 @@ body {
     padding-top: 5px;
     background-color: lightcoral;
     color: white;
+    font-family: monospace;
+    font-size: 20px;
 }
 
 .bg-dark {
