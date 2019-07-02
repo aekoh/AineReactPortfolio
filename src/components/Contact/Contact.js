@@ -21,7 +21,7 @@ function Contact() {
           <div className="row" id="contactInfo">
             <div className="col-sm-4 ml-auto text-center">
               <i className="fas fa-phone fa-3x mb-3 text-muted"></i>
-              <div>+1 (512) 207-0484</div>
+              <div>Austin, Tx</div>
             </div>
             <div className="col-sm-4 col-md-auto text-center" id="icons">
               <a
