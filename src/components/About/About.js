@@ -14,10 +14,10 @@ function About() {
             familiar with Github and Heroku. 
           </p>
           <p className="text-white font-weight-bold" id='p2'>
-            In December 2019, I graduated from Texas Tech University then 
-            immedietly enrolled into the UT Austin Tech Boot Camp. My knowledge
+            In December 2018, I graduated from Texas Tech University then 
+            immediately enrolled into the UT Austin Tech Boot Camp. My knowledge
             of Fullstack Development has grown since my enrollment in this bootcamp.
-            i have gained knowledge that i believe will make me an asset to your company 
+            I have gained knowledge that i believe will make me an asset to your company 
             through this program as well as my prior education from Texas Tech 
             University.
           </p>
