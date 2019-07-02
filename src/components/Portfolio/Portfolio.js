@@ -20,9 +20,11 @@ function Portfolio() {
     <Card.Body>
      <Button id='reliveButton'> <Card.Title><a id='reliveColor' className="static-link" href="https://lamaprojects.github.io/project1/" >*reLive App</a></Card.Title></Button>
       <Card.Text>
-      This app uses JavaScript to allow users to search an artist's
-       setlist from setlist.fm API and generate a created playlist 
-       in Spotify through use of Spotify API.
+      •	This app uses Low-level user authentication supported through Spotify.
+        It Utilizes Spotify and Setlist.fm API to provide automatically 
+        created playlists of past performances categorized by date and location.
+        This app was Designed using bootstrap framework.
+
       </Card.Text>
     </Card.Body>
     <Card.Footer id='reliveFooter'>
@@ -42,7 +44,7 @@ function Portfolio() {
   </Card>
   <Card id='reactCard'>
     <Card.Body>
-    <Button id='reactButton'> <Card.Title><a id='nodeColor' className="static-link" href="https://friend-finder-aine.herokuapp.com/" >*React App</a></Card.Title></Button>
+    <Button id='reactButton'> <Card.Title><a id='nodeColor' className="static-link" href="" >*React App</a></Card.Title></Button>
       <Card.Text>
        Mapping Tool
       </Card.Text>
