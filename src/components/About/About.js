@@ -1,13 +1,16 @@
 import React from "react";
 import './About.css';
 
+// adding my html in a function within the return
+// Creating a function called About using p tags wrapped in a container, i will then export the function for use in App.js file
+// set Id and Class names for style.css use
 
 function About() {
     return (
         <div className="page-section" id="about">
-        <div class="container" id="aboutMe">
-          <h2 class="text-white font-weight-bold">About Me</h2>
-          <p class="pStyle font-weight-bold">
+        <div className="container" id="aboutMe">
+          <h2 className="text-white font-weight-bold">About Me</h2>
+          <p className="pStyle font-weight-bold">
             I am a Software Developer working In Austin, Texas. I have spent
             a couple of years in the technology field. My skillset includes but is not
             limited to React.JS, Node.Js JavaScript and Sequelize. I am also

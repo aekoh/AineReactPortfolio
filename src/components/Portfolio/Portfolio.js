@@ -7,7 +7,10 @@ import Card from 'react-bootstrap/Card';
 import CardDeck from 'react-bootstrap/CardDeck';
 import Button from 'react-bootstrap/Button';
 
-//import CardGroup from 'react-bootstrap/CardGroup';
+//  adding my html in a function within the return
+//  Created function called Portfolio with Bootstrap frameworks.
+//  Using cards with buttons laid over to target specified links
+//  exported the function for use in the App.js file
 
 function Portfolio() {
     return (

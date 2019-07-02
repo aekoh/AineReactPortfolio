@@ -1,12 +1,12 @@
 import React from "react";
-//import Container from 'react-bootstrap/Container';
-//import Row from 'react-bootstrap/Row';
-//import Col from 'react-bootstrap/Col';
+
 
 import './Main.css'
 
-
-// This code will stack the column on mobile devices by making my imae full width
+//  adding my html in a function within the return
+//  Creating a function called Main wrapped in a container, the function will take in and image for a background and i will then export the function for use in App.js file.
+//  I set Id and Class names for style.css use.
+//  This code will stack the column on mobile devices by making my image full width
 
 function Main() {
     return (

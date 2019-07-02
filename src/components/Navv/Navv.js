@@ -4,6 +4,10 @@ import Nav from 'react-bootstrap/Nav';
 
 import './Navv.css'
 
+//  adding my html in a function within the return
+//  Creating a function called Navv that will create a bootstrap navbar
+//  exporting the function navv so i can use it in the App.js file
+//  added .Collapse for navbar to be mobile responsive
 
 function Navv() {
     return (
