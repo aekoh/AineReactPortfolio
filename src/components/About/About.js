@@ -9,14 +9,14 @@ function About() {
     return (
         <div className="page-section" id="about">
         <div className="container" id="aboutMe">
-          <h2 className="text-white font-weight-bold">About Me</h2>
+          <h2 className=" font-weight-bold">About Me</h2>
           <p className="pStyle font-weight-bold">
             I am a Software Developer working In Austin, Texas. I have spent
             a couple of years in the technology field. My skillset includes but is not
             limited to React.JS, Node.Js JavaScript and Sequelize. I am also
             familiar with Github and Heroku. 
           </p>
-          <p className="text-white font-weight-bold" id='p2'>
+          <p className=" font-weight-bold" id='p2'>
             In December 2018, I graduated from Texas Tech University then 
             immediately enrolled into the UT Austin Tech Boot Camp. My knowledge
             of Fullstack Development has grown since my enrollment in this bootcamp.
@@ -24,7 +24,7 @@ function About() {
             through this program as well as my prior education from Texas Tech 
             University.
           </p>
-          <p className="text-white font-weight-bold" id='p3'>
+          <p className=" font-weight-bold" id='p3'>
             I am currently looking for growth opportunities in Front-End or
             Full-Stack roles. I would love for you to review my work below.
           </p>

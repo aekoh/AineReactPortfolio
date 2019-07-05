@@ -1,55 +1,16 @@
-#reliveCard {
 
-    background: #ffe8d5;
-    color: black;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-attachment: scroll;
-    background-size: cover;
-    border-color: rgb(174, 19, 5);
-    border-width: 5px;
-   
-}
 
 #reliveButton, #nodeButton, #reactButton {
-    background-color:rgb(204, 10, 10);
+    background-color:rgb(236, 20, 20);
+    border-color: rgb(187, 33, 28);
     
 }
 #reliveColor, #nodeColor {
     color: white;
 }
 
-
-
-#nodeCard {
-    
-    background: #ffe8d5;
-    color: black;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-attachment: scroll;
-    background-size: cover;
-    border-color: rgb(174, 19, 5);
-    border-width: 5px;
-   
+.relivebg, .nodebg, .reactbg {
+    background-color: rgb(24, 21, 21)
 }
 
-#cardDeck {
-    padding-left: 30px;
-    padding-right: 30px;
-    padding-bottom:50px;
-    padding-top: 70px;
-}
 
-#reactCard {
-
-    background: #ffe8d5;
-    color: black;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-attachment: scroll;
-    background-size: cover;
-    border-color: rgb(174, 19, 5);
-    border-width: 5px;
-   
-}

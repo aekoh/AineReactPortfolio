@@ -12,7 +12,7 @@ function Skillset () {
         <section className="page-section bg-dark text-white" id="skills">
         <div className="container text-center">
           <h3 className="mb-4 font-weight-bold" id="skillSetColor">
-            Skillset
+            Technologies
           </h3>
           <div className="container">
             <div className="row row-skill">

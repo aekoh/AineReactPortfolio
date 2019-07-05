@@ -1,11 +1,11 @@
 body {
     padding-top: 5px;
-    background-color: lightcoral;
-    color: white;
+    background-color: rgb(17, 14, 14);
+    color: #ffe8d5;
     font-family: monospace;
     font-size: 20px;
 }
 
 .bg-dark {
-    background-color: lightcoral !important;
+    background-color: rgb(17, 14, 14) !important;
 }

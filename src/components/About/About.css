@@ -8,6 +8,7 @@ h2 {
     letter-spacing: 0.2em;
     font-family: monospace;
     padding-bottom: 20px;
+   
 }
 
 #aboutMe  {
@@ -17,5 +18,9 @@ h2 {
     font-size: 19px;
     font-family: monospace;
     letter-spacing: 0.2em;
+    color: #ffe8d5;
 }
 
+#p2, #p3 {
+    color: #ffe8d5;
+}

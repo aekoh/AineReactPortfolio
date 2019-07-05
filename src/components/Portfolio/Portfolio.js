@@ -1,11 +1,9 @@
 import React from 'react';
 import './Portfolio.css';
 import Card from 'react-bootstrap/Card';
-//import Col from 'react-bootstrap/Col';
-//import Row from 'react-bootstrap/Row';
-//import Container from 'react-bootstrap/Container';
-import CardDeck from 'react-bootstrap/CardDeck';
+import CardGroup from 'react-bootstrap/CardGroup';
 import Button from 'react-bootstrap/Button';
+
 
 //  adding my html in a function within the return
 //  Created function called Portfolio with Bootstrap frameworks.
@@ -15,46 +13,55 @@ import Button from 'react-bootstrap/Button';
 function Portfolio() {
     return (
 
-        <CardDeck id='cardDeck'>
-  <Card id='reliveCard'>
-    <Card.Body>
-     <Button id='reliveButton'> <Card.Title><a id='reliveColor' className="static-link" href="https://lamaprojects.github.io/project1/" >*reLive App</a></Card.Title></Button>
-      <Card.Text>
-      •	This app uses Low-level user authentication supported through Spotify.
-        It Utilizes Spotify and Setlist.fm API to provide automatically 
-        created playlists of past performances categorized by date and location.
-        This app was Designed using bootstrap framework.
 
-      </Card.Text>
-    </Card.Body>
-    <Card.Footer id='reliveFooter'>
-    
-    </Card.Footer>
-  </Card>
-  <Card id='nodeCard'>
-    <Card.Body>
-     <Button id='nodeButton'> <Card.Title><a id='nodeColor' className="static-link" href="https://friend-finder-aine.herokuapp.com/" >*Node App</a></Card.Title></Button>
-      <Card.Text>
-      Uses Node Js and Express to build a Friend finder application.
-      </Card.Text>
-    </Card.Body>
-    <Card.Footer id='nodeFooter'>
-     
-    </Card.Footer>
-  </Card>
-  <Card id='reactCard'>
-    <Card.Body>
-    <Button id='reactButton'> <Card.Title><a id='nodeColor' className="static-link" href="https://greenatx.herokuapp.com/" >*React App</a></Card.Title></Button>
-      <Card.Text>
-       Mapping Tool
-      </Card.Text>
-    </Card.Body>
-    <Card.Footer>
-    </Card.Footer>
-  </Card>
-</CardDeck>
-   
 
+      <CardGroup className='portfolioGroup'>
+  <Card className='relivebg'>
+    <Card.Body>
+      <Card.Title>User Auth and Javascript App</Card.Title>
+      <Card.Text>
+        <Button 
+     id='reliveButton'> <a id='reliveColor' className="static-link" href="https://lamaprojects.github.io/project1/" >*reLive App</a>
+   </Button>
+      </Card.Text>
+    </Card.Body>
+  </Card>
+
+  <Card className='nodebg'>
+    <Card.Body>
+      <Card.Title>Node.js/Express application</Card.Title>
+      <Card.Text>
+   <Button 
+     id='nodeButton'> <a id='nodeColor' className="static-link" href="https://friend-finder-aine.herokuapp.com/" >*Node App</a>
+  </Button>
+      </Card.Text>
+    </Card.Body>
+  </Card>
+
+  <Card className='reactbg'>
+    <Card.Body>
+      <Card.Title>React Application</Card.Title>
+      <Card.Text>
+        <Button
+    id='reactButton'> <a id='nodeColor' className="static-link" href="https://greenatx.herokuapp.com/" >*React App</a>
+  </Button>
+      </Card.Text>
+    </Card.Body>
+  </Card>
+</CardGroup>
+
+
+
+
+
+
+
+
+
+
+
+
+      
 
     )
     }
