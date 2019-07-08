@@ -1,26 +1,31 @@
 .pStyle {
-    font-family: monospace;
+    font-family: 'Poiret One', cursive;
     letter-spacing: 0.2em;
     
 }
 
 h2 {
     letter-spacing: 0.2em;
-    font-family: monospace;
+    font-family: 'Poiret One', cursive;
     padding-bottom: 20px;
    
 }
 
 #aboutMe  {
     text-align: center;
-    padding-bottom: 70px;
+    padding-bottom: 200px;
     padding-top: 110px;
-    font-size: 19px;
-    font-family: monospace;
+    font-size: 16px;
+    font-family: 'Poiret One', cursive;
     letter-spacing: 0.2em;
-    color: #ffe8d5;
+    color: #f10606;
 }
 
 #p2, #p3 {
-    color: #ffe8d5;
+    color: #f10606;
+}
+
+.aboutMeStyle {
+    font-family: 'Poiret One', cursive;
+    font-size: 50px;
 }

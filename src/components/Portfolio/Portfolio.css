@@ -1,16 +1,19 @@
 
 
 #reliveButton, #nodeButton, #reactButton {
-    background-color:rgb(236, 20, 20);
-    border-color: rgb(187, 33, 28);
+    background-color:white;
+    border-color: white;
     
 }
 #reliveColor, #nodeColor {
-    color: white;
+    color: #f10606;
 }
 
 .relivebg, .nodebg, .reactbg {
-    background-color: rgb(24, 21, 21)
+    background-color:#f10606;
+    border-color:#f10606;
+    color: white;
+
 }
 
 

@@ -9,7 +9,7 @@ function About() {
     return (
         <div className="page-section" id="about">
         <div className="container" id="aboutMe">
-          <h2 className=" font-weight-bold">About Me</h2>
+          <h2 className="aboutMeStyle font-weight-bold">About Me</h2>
           <p className="pStyle font-weight-bold">
             I am a Software Developer working In Austin, Texas. I have spent
             a couple of years in the technology field. My skillset includes but is not

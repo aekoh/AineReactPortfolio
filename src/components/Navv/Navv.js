@@ -11,15 +11,17 @@ import './Navv.css'
 
 function Navv() {
     return (
-<Navbar collapseOnSelect expand="lg" bg="dark" id="" variant="dark" className="navColor">
-  <Navbar.Brand href="#home">Aine Ekoh</Navbar.Brand>
+<Navbar collapseOnSelect expand="lg" bg="light" variant="light" className="navSet">
+  <Navbar.Brand className='homeName font-weight-bold' href="#home">Aine Ekoh</Navbar.Brand>
   <Navbar.Toggle aria-controls="responsive-navbar-nav" />
   <Navbar.Collapse id="responsive-navbar-nav">
     <Nav className="mr-auto">
-    <Nav.Link href="#aboutMe">About </Nav.Link>
-      <Nav.Link href="#cardDeck">Portfolio </Nav.Link>
-      <Nav.Link href="#skills">Skillset</Nav.Link>
-     <Nav.Link href="#contact">Contact</Nav.Link>
+    </Nav>
+    <Nav className='test'>
+    <Nav.Link className='font-weight-bold' href="#aboutMe">About </Nav.Link>
+      <Nav.Link className='font-weight-bold' href="#cardDeck">Portfolio </Nav.Link>
+      <Nav.Link className='font-weight-bold' href="#skills">Skillset</Nav.Link>
+     <Nav.Link className='font-weight-bold' href="#contact">Contact</Nav.Link>
     </Nav>
     
   </Navbar.Collapse>

@@ -15,13 +15,13 @@ function Portfolio() {
 
 
 
-      <CardGroup className='portfolioGroup'>
+      <CardGroup id='cardDeck' className='portfolioGroup'>
   <Card className='relivebg'>
     <Card.Body>
       <Card.Title>User Auth and Javascript App</Card.Title>
       <Card.Text>
         <Button 
-     id='reliveButton'> <a id='reliveColor' className="static-link" href="https://lamaprojects.github.io/project1/" >*reLive App</a>
+     id='reliveButton'> <a id='reliveColor' className="static-link font-weight-bold" href="https://lamaprojects.github.io/project1/" >*reLive App</a>
    </Button>
       </Card.Text>
     </Card.Body>
@@ -29,10 +29,10 @@ function Portfolio() {
 
   <Card className='nodebg'>
     <Card.Body>
-      <Card.Title>Node.js/Express application</Card.Title>
+      <Card.Title >Node.js/Express application</Card.Title>
       <Card.Text>
    <Button 
-     id='nodeButton'> <a id='nodeColor' className="static-link" href="https://friend-finder-aine.herokuapp.com/" >*Node App</a>
+     id='nodeButton'> <a id='nodeColor' className="static-link font-weight-bold" href="https://friend-finder-aine.herokuapp.com/" >*Node App</a>
   </Button>
       </Card.Text>
     </Card.Body>
@@ -43,7 +43,7 @@ function Portfolio() {
       <Card.Title>React Application</Card.Title>
       <Card.Text>
         <Button
-    id='reactButton'> <a id='nodeColor' className="static-link" href="https://greenatx.herokuapp.com/" >*React App</a>
+    id='reactButton'> <a id='nodeColor' className="static-link font-weight-bold" href="https://greenatx.herokuapp.com/" >*React App</a>
   </Button>
       </Card.Text>
     </Card.Body>

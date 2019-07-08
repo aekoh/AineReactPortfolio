@@ -1,11 +1,26 @@
 body {
     padding-top: 5px;
-    background-color: rgb(17, 14, 14);
-    color: #ffe8d5;
-    font-family: monospace;
+    background-color: rgb(249, 251, 251);
+    color: #000000;
+    font-family: 'Poiret One', cursive;
     font-size: 20px;
 }
 
 .bg-dark {
-    background-color: rgb(17, 14, 14) !important;
+    background-color: rgb(249, 251, 251) !important;
+
+}
+
+.homeName, .navSet {
+    font-family: 'Poiret One', cursive;
+    font-size: 20px;
+}
+
+.homeName {
+ font-size: 30px;
+ color:black;
+ 
+}
+ .test {
+    color:black;
 }

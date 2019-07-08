@@ -4,29 +4,31 @@
 }
 
 .card-skill {
+    /* background: transparent; */
     background: transparent;
     text-align: center;
     /* border: 1px solid rgba(255, 108, 17, 0.9); */
     padding: 18px;
-    fill: #ffe8d5;
+    fill: #f10606;
     transition: 0.35s;
+    border-color: white;
 }
 
 .card-skill:hover {
-    background:rgb(198, 9, 9);
-    fill: rgb(246, 248, 246);
-    border-color: rgb(201, 8, 8);
-    box-shadow: 3px 3px 25px rgba(241, 241, 241, 0.5);
+    background:rgb(7, 7, 6);
+    fill: #f10606;
+    border-color: rgb(255, 255, 255);
+    box-shadow: 3px 3px 25px rgba(2, 2, 2, 0.5);
 }
 
 #skills {
     padding-bottom: 160px;
-    padding-top: 100px;
+    padding-top: 200px;
 }
 
 #skillSetColor {
-    padding-bottom: 18px;
+    padding-bottom: 30px;
     font-size: 50px;
-    font-family: monospace;
-    color:#ffe8d5;
+    font-family: 'Poiret One', cursive;
+    color:#f10606;
 }
