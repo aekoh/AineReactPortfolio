@@ -14,7 +14,10 @@ function Portfolio() {
     return (
 
 
-
+      <div>
+      <h3 className="mb-4  text-center font-weight-bold" id="portfolioStyle">
+      Projects
+    </h3>
       <CardGroup id='cardDeck' className='portfolioGroup'>
   <Card className='relivebg'>
     <Card.Body>
@@ -51,7 +54,7 @@ function Portfolio() {
 </CardGroup>
 
 
-
+</div>
 
 
 

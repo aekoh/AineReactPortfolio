@@ -14,18 +14,19 @@ h2 {
 #aboutMe  {
     text-align: center;
     padding-bottom: 200px;
-    padding-top: 110px;
-    font-size: 16px;
+    padding-top: 140px;
+    font-size: 20px;
     font-family: 'Poiret One', cursive;
     letter-spacing: 0.2em;
-    color: #f10606;
+    color: black;
 }
 
 #p2, #p3 {
-    color: #f10606;
+    color: black;
 }
 
 .aboutMeStyle {
     font-family: 'Poiret One', cursive;
     font-size: 50px;
+    color: black;
 }
