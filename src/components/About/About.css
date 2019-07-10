@@ -13,8 +13,8 @@ h2 {
 
 #aboutMe  {
     text-align: center;
-    padding-bottom: 200px;
-    padding-top: 140px;
+    padding-bottom: 70px;
+    padding-top: 80px;
     font-size: 20px;
     font-family: 'Poiret One', cursive;
     letter-spacing: 0.2em;
@@ -27,6 +27,6 @@ h2 {
 
 .aboutMeStyle {
     font-family: 'Poiret One', cursive;
-    font-size: 50px;
+    font-size: 35px;
     color: black;
 }

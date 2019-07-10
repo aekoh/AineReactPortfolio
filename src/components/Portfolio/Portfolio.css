@@ -1,24 +1,24 @@
 
 
 #reliveButton, #nodeButton, #reactButton {
-    background-color:#f10606;
-    border-color: black;
+    background-color:white;
+    border-color: white;
     
 }
 #reliveColor, #nodeColor {
-    color: white;
+    color: #f10606;
 }
 
 .relivebg, .nodebg, .reactbg {
-    background-color:black;
-    border-color:black;
+    background-color:#f10606;
+    border-color:#f10606;
     color: white;
 
 }
 
-#portfolioStyle {
+.portfolioStyle {
     padding-bottom: 30px;
-    font-size: 50px;
+    font-size: 35px;
     font-family: 'Poiret One', cursive;
     color:black;
 }

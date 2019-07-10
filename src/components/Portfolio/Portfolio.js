@@ -14,8 +14,8 @@ function Portfolio() {
     return (
 
 
-      <div>
-      <h3 className="mb-4  text-center font-weight-bold" id="portfolioStyle">
+      <div id="portfolioStyle">
+      <h3 className="mb-4  text-center font-weight-bold portfolioStyle">
       Projects
     </h3>
       <CardGroup id='cardDeck' className='portfolioGroup'>
