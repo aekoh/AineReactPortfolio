@@ -13,7 +13,8 @@ function About() {
           <p className="pStyle font-weight-bold">
             I am a Software Developer working In Austin, Texas. I have spent
             a couple of years in the technology field. My skillset includes but is not
-            limited to React.JS, Node.Js Vanilla JavaScript, AJAX, API's, HTML, CSS and Sequelize. I am also
+            limited to React.JS, Node.Js, Vanilla JavaScript, AJAX, API's, MongoDB,
+             jQuery, express, HTML, CSS, and Sequelize. I am also
             familiar with Github and Heroku. 
           </p>
           <p className=" font-weight-bold" id='p2'>
