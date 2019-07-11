@@ -18,7 +18,7 @@ function About() {
           </p>
           <p className=" font-weight-bold" id='p2'>
             I graduated and completed my undergrad from Texas Tech University. I enrolled
-            in a proffesional post grad program with hands on experience at the
+            in a proffesional post grad - Advanced technical degree program with hands on experience at the
             University of Texas-Austin Tech Boot Camp. 
           </p>
           <p className=" font-weight-bold" id='p3'>
