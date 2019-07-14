@@ -8,7 +8,7 @@
 }
 
 #email {
-    color:#f10606;
+    color:red;
 }
 
 h2 {
@@ -19,15 +19,19 @@ h2 {
 }
 
 .icons {
-    color:#f10606;
-    fill: rgb(58, 16, 16)
+    color:red;
+    fill: rgb(0, 0, 0)
 
 }
 
 .icons:hover {
     background: white;
-    fill: #f10606;
+    fill: red;
     border-color: black;
    
 
+}
+
+.copyRight {
+    font-size: 12px;
 }

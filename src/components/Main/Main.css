@@ -1,12 +1,13 @@
 header.masthead {
     padding-top: 10rem;
-    padding-bottom: calc(100rem - 1300px);
+    padding-bottom: calc(105rem - 1300px);
     background: 
         url("./assets/aine2.jpeg");
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-size: cover;
+
 }
 
 #myname {

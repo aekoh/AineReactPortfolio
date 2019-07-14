@@ -80,9 +80,16 @@ function Contact() {
             
               <a className="d-block" id='email' href="mailto:aineekohhh@gmail.com"
                 >aineekohhh@gmail.com</a>
+
+
             </div>
+           
           </div>
         </div>
+        <br></br>
+        <br></br>
+        <p className='copyRight font-weight-bold text-center'>© 2019 Aine Ekoh</p>
+     
       </section>
   )
 

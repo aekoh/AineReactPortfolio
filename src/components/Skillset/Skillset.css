@@ -9,14 +9,14 @@
     text-align: center;
     /* border: 1px solid rgba(255, 108, 17, 0.9); */
     padding: 18px;
-    fill: #f10606;
+    fill: red;
     transition: 0.35s;
     border-color: white;
 }
 
 .card-skill:hover {
     background:rgb(7, 7, 6);
-    fill: #f10606;
+    fill: red;
     border-color: rgb(255, 255, 255);
     box-shadow: 3px 3px 25px rgba(2, 2, 2, 0.5);
 }

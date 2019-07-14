@@ -5,6 +5,8 @@ import CardGroup from 'react-bootstrap/CardGroup';
 import Button from 'react-bootstrap/Button';
 
 
+
+
 //  adding my html in a function within the return
 //  Created function called Portfolio with Bootstrap frameworks.
 //  Using cards with buttons laid over to target specified links
@@ -18,13 +20,15 @@ function Portfolio() {
       <h3 className="mb-4  text-center font-weight-bold portfolioStyle">
       Projects
     </h3>
-      <CardGroup id='cardDeck' className='portfolioGroup'>
+      <CardGroup id='cardDeck' className='portfolioGroup text-center'>
   <Card className='relivebg'>
     <Card.Body>
-      <Card.Title>User Auth and Javascript App</Card.Title>
+      <Card.Title>JavaScript App - ReLive</Card.Title>
+
       <Card.Text>
+      
         <Button 
-     id='reliveButton'> <a id='reliveColor' className="static-link font-weight-bold" href="https://lamaprojects.github.io/project1/" >*reLive App</a>
+     id='reliveButton'> <a id='reliveColor' className="static-link font-weight-bold" href ="https://relive-project1.herokuapp.com/" >*reLive App</a>
    </Button>
       </Card.Text>
     </Card.Body>
@@ -32,25 +36,16 @@ function Portfolio() {
 
   <Card className='nodebg'>
     <Card.Body>
-      <Card.Title >Node.js/Express application</Card.Title>
+      <Card.Title >React.js App - GREEN atx</Card.Title>
       <Card.Text>
    <Button 
-     id='nodeButton'> <a id='nodeColor' className="static-link font-weight-bold" href="https://friend-finder-aine.herokuapp.com/" >*Node App</a>
+     id='nodeButton'> <a id='nodeColor' className="static-link font-weight-bold" href="https://greenatx.herokuapp.com/" >atx App</a>
   </Button>
       </Card.Text>
     </Card.Body>
   </Card>
 
-  <Card className='reactbg'>
-    <Card.Body>
-      <Card.Title>React Application</Card.Title>
-      <Card.Text>
-        <Button
-    id='reactButton'> <a id='nodeColor' className="static-link font-weight-bold" href="https://greenatx.herokuapp.com/" >*React App</a>
-  </Button>
-      </Card.Text>
-    </Card.Body>
-  </Card>
+ 
 </CardGroup>
 
 
