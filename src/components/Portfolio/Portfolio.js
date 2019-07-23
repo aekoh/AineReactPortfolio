@@ -36,10 +36,10 @@ function Portfolio() {
 
   <Card className='nodebg'>
     <Card.Body>
-      <Card.Title >React.js App - GREEN atx</Card.Title>
+      <Card.Title >React.js App </Card.Title>
       <Card.Text>
    <Button 
-     id='nodeButton'> <a id='nodeColor' className="static-link font-weight-bold" href="https://greenatx.herokuapp.com/" >atx App</a>
+     id='nodeButton'> <a id='nodeColor' className="static-link font-weight-bold" href="https://react-game-2.herokuapp.com/" >React App</a>
   </Button>
       </Card.Text>
     </Card.Body>
