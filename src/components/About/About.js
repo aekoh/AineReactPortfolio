@@ -11,20 +11,20 @@ function About() {
         <div className="container" id="aboutMe">
           <h2 className="aboutMeStyle font-weight-bold">About Me</h2>
           <p className="pStyle font-weight-bold">
-            I am a Software Developer working In Austin, Texas. I have spent
-            a couple of years in the technology field. My skillset includes but is not
-            limited to React.JS, Node.Js, Vanilla JavaScript, AJAX, API's, MongoDB,
-             jQuery, express, HTML, CSS, and Sequelize. I am also
-            familiar with Github and Heroku. 
+          A dynamic technology professional who is motivated to better the lives of customers throughout 
+          the use of technology innovation. I am a Technical Scrum master/ Software developer with a proven 
+          history of working in the tech and healthcare industry. Strong CSM management and technical skills 
+          with the ability to solve impediments in cross-functional teams. 
           </p>
           <p className=" font-weight-bold" id='p2'>
-            I graduated and completed my undergrad from Texas Tech University. I enrolled
-            in a proffesional post-graduate Advanced technical degree program with hands on experience at the
-            University of Texas-Austin Tech Boot Camp. 
+            I graduated from Texas Tech university with a Bachelors in Science. 
+            After graduation, I enrolled in the University of Texas-Austin Tech Boot Camp where i gained
+            professional technical skills. I am now a candidtate for George Washington University's 
+            Masters in Science in Engineering management.
+
           </p>
           <p className=" font-weight-bold" id='p3'>
-            I am currently looking for growth opportunities in Software Development roles
-            My work is yours for review below.
+            I am currently looking for growth opportunities in Scrum master/Program management roles.
           </p>
         </div>
       </div>    

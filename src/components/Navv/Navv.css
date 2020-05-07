@@ -1,13 +1,13 @@
 body {
     padding-top: 5px;
-    background-color: rgb(249, 251, 251);
+    background-color:#F0F0F0 ;
     color: #000000;
     font-family: 'Poiret One', cursive;
     font-size: 20px;
 }
 
 .bg-dark {
-    background-color: rgb(249, 251, 251) !important;
+    background-color: #F0F0F0!important;
 
 }
 
@@ -23,4 +23,6 @@ body {
 }
  .test {
     color:black;
+    text-align: center;
 }
+

@@ -1,6 +1,9 @@
 import React from "react";
 import Navbar from 'react-bootstrap/Navbar';
 import Nav from 'react-bootstrap/Nav';
+import Row from 'react-bootstrap/Row';
+import Col from 'react-bootstrap/Col';
+import Container from 'react-bootstrap/Container';
 
 import './Navv.css'
 
@@ -11,8 +14,11 @@ import './Navv.css'
 
 function Navv() {
     return (
+
+ 
 <Navbar collapseOnSelect expand="lg" bg="light" variant="light" className="text-danger navSet">
-  <Navbar.Brand className='homeName font-weight-bold' href="#home">Aine Ekoh</Navbar.Brand>
+<Container>
+  <Navbar.Brand className='homeName font-weight-bold' href="#home">AE</Navbar.Brand>
   <Navbar.Toggle aria-controls="responsive-navbar-nav" />
   <Navbar.Collapse id="responsive-navbar-nav">
     <Nav className="mr-auto">
@@ -25,7 +31,12 @@ function Navv() {
     </Nav>
     
   </Navbar.Collapse>
+  </Container> 
 </Navbar>
+
+
+
+
     )
 }
 

@@ -2,17 +2,44 @@ header.masthead {
     padding-top: 10rem;
     padding-bottom: calc(105rem - 1300px);
     background: 
-        url("./assets/aine2.jpeg");
+        url("./assets/nay.png");
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-size: cover;
+    vertical-align: middle;
+   
+  width: 600px;
+  height: 20px;
+  border-radius: 50%;
+ 
 
 }
 
 #myname {
-    border-bottom: 0.2rem solid rgb(231, 231, 231);
+    border-bottom: 0.2rem solid #FAEAF5;
     display: inline-block;
     font-family: monospace;
 }
 
+.bgc {
+background-color: #F0F0F0;
+}
+body {
+    background-color:#F0F0F0;
+   
+    
+}
+
+.fnt {
+    font-weight:bold;
+}
+.cnt {
+    font-weight: bold;
+    padding-left: 170px;
+}
+
+h4, h1 {
+    font-weight: bold;
+    padding-left: 170px;
+}

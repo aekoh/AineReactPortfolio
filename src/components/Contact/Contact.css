@@ -9,6 +9,7 @@
 
 #email {
     color:red;
+    padding-left: 200px;
 }
 
 h2 {
@@ -19,15 +20,17 @@ h2 {
 }
 
 .icons {
-    color:red;
-    fill: rgb(0, 0, 0)
+    color:black;
+    fill: lightslategrey;
+    padding-right: 41.6px;
+    
 
 }
 
 .icons:hover {
     background: white;
     fill: red;
-    border-color: black;
+    border-color: red;
    
 
 }
